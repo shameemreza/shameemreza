@@ -13,7 +13,7 @@ There is nothing to tell you except what I have done and built so far. Anyways, 
 
 <small><strong>❯❯ Professional Mobile App Development Services ↓</strong></small>
 
-[![Flutter Development](https://img.shields.io/badge/Flutter-App%20Development%20Services%20%E2%86%92-gray.svg?colorA=46d1fd&colorB=1389FD&style=for-the-badge)][n] [![IOS App](https://img.shields.io/badge/IOS-App%20App%20Development%20%E2%86%92-gray.svg?colorA=ec3b6e&colorB=D12053&style=for-the-badge)][v] [![Android App](https://img.shields.io/badge/Android-App%20Development%20%E2%86%92-gray.svg?colorA=6B999F&colorB=6A788D&style=for-the-badge)][d]
+[![Flutter Development](https://img.shields.io/badge/Flutter-App%20Development%20%E2%86%92-gray.svg?colorA=46d1fd&colorB=1389FD&style=for-the-badge)][n] [![IOS App](https://img.shields.io/badge/IOS-App%20App%20Development%20%E2%86%92-gray.svg?colorA=ec3b6e&colorB=D12053&style=for-the-badge)][v] [![Android App](https://img.shields.io/badge/Android-App%20Development%20%E2%86%92-gray.svg?colorA=6B999F&colorB=6A788D&style=for-the-badge)][d]
 
 [s]: https://shameem.me
 [n]: https://appbuff.net/flutter-app-development?utm_source=github&utm_medium=referral&utm_campaign=profile
