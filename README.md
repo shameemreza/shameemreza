@@ -8,7 +8,7 @@
     <p><a href="https://www.linkedin.com/in/shameemreza/"><img alt="LinkedIn @ShameemReza" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile</small></p>
 </div>
 
-I’m Shameem Reza, Father of a Son, blessed with a pious wife. I am a software developer with over 08+ years of experience in developing Mobile Apps for iOS and Android. I love to work with Flutter, JavaScript, Swift, PHP and WordPress.
+I’m Shameem Reza, Father of a Son, blessed with a pious wife. I am a software developer with over 08+ years of experience in developing Mobile Apps for iOS and Android. I love to work with Flutter, JavaScript, Swift and SwiftUI.
 
 I have over 15 iOS apps in the Apple app store and over 30 apps in Google Play store which downloaded over 50 thousands times from the app store.
 
