@@ -18,11 +18,11 @@ As a solopreneur and a freelance Developer, I’ve developed complicated Mobile 
 
 I have over 25 iOS apps in the Apple app store and over 30 apps in the Google Play store which downloaded over 80 thousand times from the app store.
 
-☞ Excellent ability to troubleshoot and work with clients to solve problems or find solutions to requests.
-☞ Solid background in managing interactive elements of websites to create a fulfilling user experience based upon client guidelines.
-☞ Superior skills in working with a team to create websites that will exceed customer expectations.
-☞ Ability to work well under pressure to meet hard deadlines and stay within budget while still being able to provide clients with exactly what they want.
-☞ Committed to providing secure websites that use the latest methods to protect against all types of threats.
+* Excellent ability to troubleshoot and work with clients to solve problems or find solutions to requests.
+* Solid background in managing interactive elements of websites to create a fulfilling user experience based upon client guidelines.
+* Superior skills in working with a team to create websites that will exceed customer expectations.
+* Ability to work well under pressure to meet hard deadlines and stay within budget while still being able to provide clients with exactly what they want.
+* Committed to providing secure websites that use the latest methods to protect against all types of threats.
 
 **Languages and Tools:**  
 
