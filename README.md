@@ -11,7 +11,7 @@ As-salamu Alaykum. I'm Shameem Reza, Father of a Son, blessed with a pious wife.
 
 As a solopreneur and a freelance Developer, I’ve developed complicated Mobile Apps from scratch using SwiftUI and websites using WordPress & JavaScript for a dozen startups in the hottest technology hubs such as Sydney, Singapore, Tokyo, and Silicon Valley since 2014.
 
-I have over 505 iOS apps in the Apple app store and over 30 apps in the Google Play store, 20+ plugins in WordPress plugin repository which downloaded over 80 thousand times.
+I have over 50 iOS apps in the Apple app store and over 80 apps in the Google Play store, 30+ plugins in WordPress plugin repository which downloaded over 80 thousand times.
 
 * Excellent ability to troubleshoot and work with clients to solve problems or find solutions to requests.
 * Solid background in managing interactive elements of websites to create a fulfilling user experience based upon client guidelines.
