@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/shameemreza/shameemreza/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <div align="left">
-    <p><a href="https://twitter.com/shameemdev/"><img alt="Twitter @ShameemDev" align="center" src="https://img.shields.io/badge/-@ShameemDev-gray.svg?colorA=6A788D&colorB=1da1f2&style=for-the-badge" /></a>&nbsp;<small> <strong>(follow)</strong> To get tech talks & Tips</small></p>
+    <p><a href="https://twitter.com/shameemdev/"><img alt="Twitter @ShameemDev" align="center" src="https://img.shields.io/badge/-@ShameemDev-gray.svg?colorA=6A788D&colorB=1da1f2&style=for-the-badge" /></a>&nbsp;<small> <strong>(follow)</strong> Get tech talks & Tips</small></p>
     <p><a href="https://shameem.me/"><img alt="Blog: Shameem.me" align="center" src="https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(read)</strong> In-depth technical articles</small></p>
     <p><a href="https://www.linkedin.com/in/shameemreza/"><img alt="LinkedIn @ShameemReza" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile</small></p>
 </div>
