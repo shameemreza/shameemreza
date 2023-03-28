@@ -17,6 +17,8 @@ As a solopreneur and a freelance Developer, I've developed complicated applicati
 * Ability to work well under pressure to meet hard deadlines and stay within budget while still being able to provide clients with exactly what they want.
 * Committed to providing secure websites that use the latest methods to protect against all types of threats.
 
+If you're looking for a developer who can work well under pressure to meet hard deadlines and stay within budget while still providing clients with exactly what they want, feel free to reach out to me.
+
 **Languages and Tools:**
 
 <p align="center">
