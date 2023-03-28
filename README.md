@@ -7,14 +7,12 @@
     <p><a href="https://www.linkedin.com/in/shameemreza/"><img alt="LinkedIn @ShameemReza" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile</small></p>
 </div>
 
-As-salamu Alaykum. I'm Shameem Reza, Father of a Son, blessed with a pious wife. I am a Self-taught Full Stack Developer & WordPress Ninja with over 08+ years of experience in developing Mobile and Web Apps. I love to work with JavaScript, SwiftUI, and WordPress.
+As-salamu Alaykum. I'm Shameem Reza, Father of a Son, blessed with a pious wife. I am a self-taught Full Stack Developer & WordPress Ninja with over 08+ years of experience in developing Mobile and Web Apps. I love to work with JavaScript, Reactjs, SwiftUI, and WordPress.
 
-As a solopreneur and a freelance Developer, I’ve developed complicated Mobile Apps from scratch using SwiftUI and websites using WordPress & JavaScript for a dozen startups in the hottest technology hubs such as Sydney, Singapore, Tokyo, and Silicon Valley since 2014.
-
-I have over 50 iOS apps in the Apple app store and over 80 apps in the Google Play store, 30+ plugins in WordPress plugin repository which downloaded over 80 thousand times.
+As a solopreneur and a freelance Developer, I've developed complicated applications from scratch using JavaScript, ReactJs, NextJs, and WordPress for a dozen startups in the hottest technology hubs such as Sydney, Singapore, Tokyo, and Silicon Valley since 2014.
 
 * Excellent ability to troubleshoot and work with clients to solve problems or find solutions to requests.
-* Solid background in managing interactive elements of websites to create a fulfilling user experience based upon client guidelines.
+* Solid background in managing interactive elements of websites to create a fulfilling user experience based on client guidelines.
 * Superior skills in working with a team to create websites that will exceed customer expectations.
 * Ability to work well under pressure to meet hard deadlines and stay within budget while still being able to provide clients with exactly what they want.
 * Committed to providing secure websites that use the latest methods to protect against all types of threats.
