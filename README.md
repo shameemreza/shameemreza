@@ -3,17 +3,19 @@
 
 <div align="left">
     <p><a href="https://twitter.com/shameemdev/"><img alt="Twitter @ShameemDev" align="center" src="https://img.shields.io/badge/-@ShameemDev-gray.svg?colorA=6A788D&colorB=1da1f2&style=for-the-badge" /></a>&nbsp;<small> <strong>(follow)</strong> Get tech talks & Tips</small></p>
-    <p><a href="https://shameem.dev/"><img alt="Portfolio: Shameem.dev" align="center" src="https://img.shields.io/badge/-MY%20PORTFOLIO-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(read)</strong> In-depth details about me</small></p>
+    <p><a href="https://wcwiz.com/"><img alt="Portfolio: Shameem.dev" align="center" src="https://img.shields.io/badge/-MY%20PORTFOLIO-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(read)</strong> In-depth details about me</small></p>
     <p><a href="https://www.linkedin.com/in/shameemreza/"><img alt="LinkedIn @ShameemReza" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile</small></p>
 </div>
 
-I'm a highly skilled WooCommerce developer with over 10+ years of experience in creating, customizing, and optimizing eCommerce websites. I specialize in delivering robust WooCommerce solutions and providing top-notch technical support and consultation to ensure your online store thrives.
+10+ years with WordPress and WooCommerce. I solve complex support issues, build internal tools, and focus on performance, UX, and scalable solutions.
 
-### Additional Skills:
+### What I focus on:
 
-- Familiarity with SwiftUI and Flutter.
-- Strong focus on user experience and responsive design.
-- Ability to work with clients from diverse industries and deliver tailored solutions.
+- Advanced WooCommerce support and troubleshooting.
+- Workflow automation and internal tooling.
+- Frontend UX, accessibility, and responsive design.
+- JavaScript, AI, and creative indie projects.
+- Contributing to WordPress and learning constantly.
 
 **Languages and Tools:**
 
