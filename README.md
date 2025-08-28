@@ -19,7 +19,7 @@ I'm a Happiness Engineer at Automattic, helping merchants turn WooCommerce chaos
 - Contributing to WordPress and learning constantly.
 
 <p align="center">
-  <a href="https://shameem.dev">
+  <a href="https://shameem.blog">
     <img src="https://skillicons.dev/icons?i=js,php,wordpress,tailwind,bootstrap,react,nextjs,git" />
   </a>
 </p>
