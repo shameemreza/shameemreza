@@ -13,14 +13,13 @@ I'm a Happiness Engineer at Automattic, helping merchants turn WooCommerce chaos
 
 - Advanced WooCommerce support and troubleshooting.
 - Workflow automation and tooling.
+- Performance optimization & debugging.
 - Frontend UX, accessibility, and responsive design.
-- JavaScript, AI, and creative open source projects.
+- JavaScript, AI, and creative open-source projects.
 - Contributing to WordPress and learning constantly.
-
-**Languages and Tools:**
 
 <p align="center">
   <a href="https://shameem.dev">
-    <img src="https://skillicons.dev/icons?i=js,wordpress,tailwind,bootstrap,react,nextjs,php,git" />
+    <img src="https://skillicons.dev/icons?i=js,php,wordpress,tailwind,bootstrap,react,nextjs,git" />
   </a>
 </p>
