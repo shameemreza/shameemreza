@@ -3,18 +3,18 @@
 
 <div align="left">
     <p><a href="https://twitter.com/shameemdev/"><img alt="Twitter @ShameemDev" align="center" src="https://img.shields.io/badge/-@ShameemDev-gray.svg?colorA=6A788D&colorB=1da1f2&style=for-the-badge" /></a>&nbsp;<small> <strong>(follow)</strong> Get tech talks & Tips</small></p>
-    <p><a href="https://wcwiz.com/"><img alt="Portfolio: Shameem.dev" align="center" src="https://img.shields.io/badge/-MY%20PORTFOLIO-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(read)</strong> In-depth details about me</small></p>
+    <p><a href="https://shameem.blog/"><img alt="Blog: shameem.blog" align="center" src="https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(read)</strong> In-depth details about me</small></p>
     <p><a href="https://www.linkedin.com/in/shameemreza/"><img alt="LinkedIn @ShameemReza" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> On the LinkedIn profile</small></p>
 </div>
 
-10+ years with WordPress and WooCommerce. I solve complex support issues, build internal tools, and focus on performance, UX, and scalable solutions.
+I'm a Happiness Engineer at Automattic, helping merchants turn WooCommerce chaos into calm with clear solutions, code snippets, and technical breakdowns.
 
 ### What I focus on:
 
 - Advanced WooCommerce support and troubleshooting.
-- Workflow automation and internal tooling.
+- Workflow automation and tooling.
 - Frontend UX, accessibility, and responsive design.
-- JavaScript, AI, and creative indie projects.
+- JavaScript, AI, and creative open source projects.
 - Contributing to WordPress and learning constantly.
 
 **Languages and Tools:**
