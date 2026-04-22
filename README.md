@@ -2,7 +2,7 @@
 
 <div align="left">
     <p><a href="https://x.com/shameemdev/"><img alt="Twitter @ShameemDev" align="center" src="https://img.shields.io/badge/-@ShameemDev-gray.svg?colorA=6A788D&colorB=1da1f2&style=for-the-badge" /></a>&nbsp;<small> <strong>(follow)</strong> Tech talks & tips</small></p>
-    <p><a href="https://shameem.blog/"><img alt="Blog: shameem.blog" align="center" src="https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(read)</strong> Real cases, clear solutions</small></p>
+    <p><a href="https://shameemreza.com/"><img alt="Blog: shameemreza.com" align="center" src="https://img.shields.io/badge/-MY%20BLOG-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(read)</strong> Real cases, clear solutions</small></p>
     <p><a href="https://www.linkedin.com/in/shameemreza/"><img alt="LinkedIn @ShameemReza" align="center" src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>&nbsp;<small><strong>(connect)</strong> Let's build together</small></p>
 </div>
 
